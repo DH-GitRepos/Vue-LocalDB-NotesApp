@@ -1,0 +1,145 @@
+{
+    "notes": [
+        {
+            "title": "Grocery List",
+            "content": "Eggs, milk, bread, apples",
+            "category": "Shopping",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"            
+        },
+        {
+            "title": "Meeting Agenda",
+            "content": "Discuss project updates and deadlines.",
+            "category": "Work",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Movie Recommendations",
+            "content": "Parasite, Inception, The Shawshank Redemption",
+            "category": "Entertainment",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Fitness Routine",
+            "content": "30 minutes of cardio, 3 sets of push-ups",
+            "category": "Health",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Travel Itinerary",
+            "content": "Flight at 8 AM, check-in at the hotel by 3 PM",
+            "category": "Travel",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Book Ideas",
+            "content": "Mystery novel with a detective protagonist",
+            "category": "Creative Writing",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Recipe for Chicken Curry",
+            "content": "Chicken, onions, tomatoes, spices",
+            "category": "Cooking",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Gift Ideas",
+            "content": "Jewelry for mom, video game for brother",
+            "category": "Gift Planning",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Personal Goals",
+            "content": "Save $1,000, learn a new language",
+            "category": "Personal Development",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Home Improvement",
+            "content": "Paint the living room, fix the leaky faucet",
+            "category": "Home",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Tech Troubleshooting",
+            "content": "Laptop not connecting to Wi-Fi, printer not working",
+            "category": "Technology",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Favorite Quotes",
+            "content": "'The only thing we have to fear is fear itself.' - Franklin D. Roosevelt",
+            "category": "Inspiration",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Music Playlist",
+            "content": "Songs for the road trip: 'Hotel California', 'Sweet Child o' Mine'",
+            "category": "Music",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Bucket List",
+            "content": "Skydiving, visit the Great Wall of China",
+            "category": "Adventure",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Gardening Ideas",
+            "content": "Plant roses in the backyard, grow tomatoes",
+            "category": "Gardening",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Financial Goals",
+            "content": "Create an emergency fund, invest in stocks",
+            "category": "Finance",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Quotes from Books",
+            "content": "'It is our choices that show what we truly are, far more than our abilities.' - J.K. Rowling",
+            "category": "Literature",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Party Planning",
+            "content": "Guest list, decorations, food menu",
+            "category": "Events",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Movie Reviews",
+            "content": "'Dune' - Great cinematography, slow pacing",
+            "category": "Entertainment",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        },
+        {
+            "title": "Meditation Techniques",
+            "content": "Deep breathing, mindfulness, body scan",
+            "category": "Wellness",
+            "dateCreated": "08-01-2023 @ 22:00",
+            "dateUpdated": "08-01-2023 @ 22:00"             
+        }
+
+    ]
+}

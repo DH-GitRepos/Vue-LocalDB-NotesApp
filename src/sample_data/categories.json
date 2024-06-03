@@ -1,0 +1,84 @@
+{
+    "categories": [
+        {
+            "title": "Shopping",
+            "description": "Shopping related notes"
+        },
+        {
+            "title": "Work",
+            "description": "Work related notes"
+        },
+        {
+            "title": "Entertainment",
+            "description": "Entertainment related notes"
+        },
+        {
+            "title": "Health",
+            "description": "Health related notes"
+        },
+        {
+            "title": "Travel",
+            "description": "Travel related notes"
+        },
+        {
+            "title": "Creative Writing",
+            "description": "Creative writing notes"
+        },
+        {
+            "title": "Cooking",
+            "description": "Cooking related notes"
+        },
+        {
+            "title": "Gift Planning",
+            "description": "Gift planning ideas"
+        },
+        {
+            "title": "Personal Development",
+            "description": "Personal development notes"
+        },
+        {
+            "title": "Home",
+            "description": "Home related notes"
+        },
+        {
+            "title": "Technology",
+            "description": "Technology related notes"
+        },
+        {
+            "title": "Inspiration",
+            "description": "Inspirational notes"
+        },
+        {
+            "title": "Music",
+            "description": "Music related notes"
+        },
+        {
+            "title": "Adventure",
+            "description": "Adventure ideas"
+        },
+        {
+            "title": "Gardening",
+            "description": "Gardening related notes"
+        },
+        {
+            "title": "Finance",
+            "description": "Finance related notes"
+        },
+        {
+            "title": "Literature",
+            "description": "Literature related notes"
+        },
+        {
+            "title": "Events",
+            "description": "Events related notes"
+        },
+        {
+            "title": "Entertainment",
+            "description": "Entertainment notes"
+        },
+        {
+            "title": "Wellness",
+            "description": "Wellness related notes"
+        }
+    ]
+}
